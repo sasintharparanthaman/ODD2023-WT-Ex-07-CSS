@@ -81,8 +81,11 @@ Close the HTML structure.
   ```
   
 # OUTPUT:7(i):
+
 ![Alt text](<Screenshot 2023-12-15 103634.png>)
+
 ![Alt text](<Screenshot 2023-12-15 103814.png>)
+
 ![Alt text](<Screenshot 2023-12-15 101735.png>)
 
 
