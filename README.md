@@ -81,13 +81,9 @@ Close the HTML structure.
   ```
   
 # OUTPUT:7(i):
-
-![Alt text](<Screenshot 2023-12-15 103634.png>)
-
-![Alt text](<Screenshot 2023-12-15 103814.png>)
-
-![Alt text](<Screenshot 2023-12-15 101735.png>)
-
+![Screenshot 2023-12-15 101117](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/28b47175-583b-49bf-86e7-ebb108d3fe7f)
+![Screenshot 2023-12-15 101142](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/8654b3ef-94de-4d71-97cf-0ce4a2715701)
+![Screenshot 2023-12-15 101735](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/c67a6b4f-20eb-49ae-81e4-53637af26ffd)
 
 # Ex-07(ii)-CSS
 # AIM
@@ -146,8 +142,9 @@ End the HTML document by closing all open tags.
   ```
 
 # OUTPUT:7(ii):
-![Alt text](<Screenshot 2023-12-15 102018.png>)
-![Alt text](<Screenshot 2023-12-15 102600.png>)
+![Screenshot 2023-12-15 102018](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/ab7b1a73-cb02-47d0-b351-9c8cb7244da5)
+![Screenshot 2023-12-15 102600](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/360740c6-4058-465e-a0bd-0adf61e6a06b)
+
 
 # Ex-07(iii)-CSS Orientation-based Media Query
 # AIM
@@ -207,8 +204,9 @@ Open your HTML file in a web browser and change the orientation of your device t
   ```
   
 # OUTPUT:7(iii):
-![Alt text](<Screenshot 2023-12-15 102651.png>)
-![Alt text](<Screenshot 2023-12-15 102809.png>)
+![Screenshot 2023-12-15 102651](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/1113d518-ab54-461c-a1c2-760dcd490c96)
+
+![Screenshot 2023-12-15 102809](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/ede528cc-0388-4f27-b46a-bf8f481442ae)
 
 
 # Ex-07(iv)-CSS Responsive Typography
@@ -283,9 +281,10 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   ```
 
 # OUTPUT:7(iv):
-![Alt text](<Screenshot 2023-12-15 102922.png>)
-![Alt text](<Screenshot 2023-12-15 103001.png>)
-![Alt text](<Screenshot 2023-12-15 103036.png>)
+![Screenshot 2023-12-15 103036](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/06b212c6-f09d-4ce1-a293-9523364f976c)
+![Screenshot 2023-12-15 102922](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/7a86c354-1b08-481f-bf81-051e7ff35e8b)
+![Screenshot 2023-12-15 103001](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/6eeee20e-d521-4d28-932f-d7ed6258fd57)
+
 
 # Ex-07(v)-Print-friendly CSS
 # AIM
@@ -353,8 +352,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   ```
 
 # OUTPUT:7(v):
-![Alt text](<Screenshot 2023-12-15 103332.png>)
-![Alt text](<Screenshot 2023-12-15 103634.png>)
+![Screenshot 2023-12-15 103332](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/a12871f9-0847-408c-8af6-4c1a79180c33)
+![Screenshot 2023-12-15 103634](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/d1c23470-c674-42db-a4e3-8c68dbcbe110)
+
 
 # Ex-07(vi)-Dark Mode Implementation
 # AIM
@@ -419,5 +419,6 @@ Remember to test your website in both light and dark modes to ensure the colors 
   ```
 
 # OUTPUT:7(vi):
-![Alt text](<Screenshot 2023-12-15 104517.png>)
-![Alt text](<Screenshot 2023-12-15 103814.png>)
+![Screenshot 2023-12-15 103814](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/a59ac3c8-7e6a-4cba-8b58-a1b71aba9cbd)
+![Screenshot 2023-12-15 104517](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-07-CSS/assets/145743219/4f2b090f-78b3-45bc-8a99-bb0a926216f1)
+
